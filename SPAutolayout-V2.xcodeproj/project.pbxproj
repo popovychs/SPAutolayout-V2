@@ -64,9 +64,8 @@
 				3E91A2711BD5447600660650 /* AppDelegate.m */,
 				3E91A2731BD5447600660650 /* ViewController.h */,
 				3E91A2741BD5447600660650 /* ViewController.m */,
-				3E91A2761BD5447600660650 /* Main.storyboard */,
+				3E91A2861BD548F300660650 /* SPStoryboards */,
 				3E91A2791BD5447600660650 /* Assets.xcassets */,
-				3E91A27B1BD5447600660650 /* LaunchScreen.storyboard */,
 				3E91A27E1BD5447600660650 /* Info.plist */,
 				3E91A26D1BD5447600660650 /* Supporting Files */,
 			);
@@ -80,6 +79,15 @@
 				3E91A26E1BD5447600660650 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3E91A2861BD548F300660650 /* SPStoryboards */ = {
+			isa = PBXGroup;
+			children = (
+				3E91A2761BD5447600660650 /* Main.storyboard */,
+				3E91A27B1BD5447600660650 /* LaunchScreen.storyboard */,
+			);
+			name = SPStoryboards;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
